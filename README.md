@@ -12,6 +12,6 @@ Send sms spam whit snap! Fast and free
 
 <h5>pkg install python</h5>
 <h5>git clone https://github.com/vectorcyber/SMS-bomber-free.git</h5>
-<h5>cd sms-boomber-free </h5>
-<h5>sms-boomber-free.py </h5>
+<h5>cd sms-bomber-free </h5>
+<h5>sms-bomber-free.py </h5>
 coppy up code & paste to Terminal
