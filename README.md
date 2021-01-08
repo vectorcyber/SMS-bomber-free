@@ -2,16 +2,23 @@
 Send sms spam whit snap! Fast and free
 
 
-<h4>@victor_cyber in #rubika</h4>
+<h4>@vic<h4>@victor_cyber in #rubika</h4>
 
-<h5>pip install requests</h5>
+pip install requests
 
-<h5>pip install colorama</h5>
+pip install colorama
 
-<h5>pip install time</h5>
+pip install time
 
-<h5>pkg install python</h5>
+pkg install python
+
 <h5>git clone https://github.com/vectorcyber/SMS-bomber-free.git</h5>
-<h5>cd sms-bomber-free </h5>
-<h5>sms-bomber-free.py </h5>
+
+cd sms-bomber-free </h5>
+
+sms-bomber-free.py 
+
 coppy up code & paste to Terminal
+
+
+
