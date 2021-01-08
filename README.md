@@ -2,7 +2,7 @@
 Send sms spam whit snap! Fast and free
 
 
-<h4>@vic<h4>@victor_cyber in #rubika</h4>
+<h5>@victor_cyber in #rubika</h4>
 
 pip install requests
 
