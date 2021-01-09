@@ -18,7 +18,7 @@ pip install time
 
 cd SMS-bomber-free </h5>
 
-python sms-bomber-free.py 
+python sms-bomber-free
 
 coppy up code & paste to Terminal
 
